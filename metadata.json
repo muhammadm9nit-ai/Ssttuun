@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Copy of Copy of ProGamer Tournament Hub",
+  "description": "A high-performance gaming tournament platform for battle royale and clash squad matches, featuring real-time AI support and a sleek mobile-first UI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
